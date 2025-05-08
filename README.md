@@ -97,17 +97,11 @@ Follows a clean architecture approach:
 ## 📸 Screenshots
 
 
-Dashboard
-
-<p align="center">
-   <img src="https://i.imgur.com/OeGksVT.jpeg" height="60%" width="60%" alt="Mechanic Dashboard Screenshot"/>
-</p>
-
 
 Swagger UI
 
 <p align="center">
-   <img src="https://i.imgur.com/OeGksVT.jpeg" height="60%" width="60%" alt="Mechanic Dashboard Screenshot"/>
+   <img src="https://i.imgur.com/v7NNnQn.jpeg" height="60%" width="60%" alt="Mechanic Dashboard Screenshot"/>
 </p>
 
 Vehicle Management
