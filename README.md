@@ -104,13 +104,45 @@ Swagger UI
    <img src="https://i.imgur.com/v7NNnQn.jpeg" height="60%" width="60%" alt="Mechanic Dashboard Screenshot"/>
 </p>
 
+<p align="center">
+   <img src="https://i.imgur.com/gYxFhgv.jpeg" height="60%" width="60%" alt="Mechanic Dashboard Screenshot"/>
+</p>
+
+<p align="center">
+   <img src="https://i.imgur.com/QP6HxEJ.jpeg" height="60%" width="60%" alt="Mechanic Dashboard Screenshot"/>
+</p>
+
+
+
 Vehicle Management
 
 <p align="center">
    <img src="https://i.imgur.com/OeGksVT.jpeg" height="60%" width="60%" alt="Mechanic Dashboard Screenshot"/>
 </p>
 
+<p align="center">
+   <img src="https://i.imgur.com/FyDZx9y.jpeg" height="60%" width="60%" alt="Mechanic Dashboard Screenshot"/>
+</p>
+
+<p align="center">
+   <img src="https://i.imgur.com/OSNonR4.jpeg" height="60%" width="60%" alt="Mechanic Dashboard Screenshot"/>
+</p>
+
+<p align="center">
+   <img src="https://i.imgur.com/6wJcaKJ.jpeg" height="60%" width="60%" alt="Mechanic Dashboard Screenshot"/>
+</p>
+
+<p align="center">
+   <img src="https://i.imgur.com/pXvHjLA.jpeg" height="60%" width="60%" alt="Mechanic Dashboard Screenshot"/>
+</p>
+
 ---
+
+Users
+
+<p align="center">
+   <img src="https://i.imgur.com/nMOufI2.jpeg" height="60%" width="60%" alt="Mechanic Dashboard Screenshot"/>
+</p>
 
 
 ### 📦 Installation Steps
